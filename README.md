@@ -1,5 +1,5 @@
 # 00000000-99999999-numbers-for-wordlist-attack.
-WordList Numbers 0 to 9 with 8 charachers long input. WordLists.txt Wordlist.txt rockyou.txt
+WordList Numbers 0 to 9 with 8 charachers long input. WordLists.txt Wordlist.txt rockyou.txt - real output file is numbah.txt when running php code applet.
 
 Help me upload these files which is in 25mb parts. Github does not accept upload these files seprately.
 
